@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Kishor</h1>
-<h3 align="center">A passionate student and developer</h3>
+<h3 align="center">Student and Developer</h3>
 
 - 🔭 I’m currently working on [INDStock](https://bit.ly/indstock)
 
 - 🌱 I’m currently learning **ReactJS**
-
-- 👨‍💻 All of my projects are available at [https://ayushkishor.github.io/](https://ayushkishor.github.io/)
 
 - 📫 How to reach me **ayushkishor17@gmail.com**
 
