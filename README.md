@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Kishor</h1>
 <h3 align="center">Student and Developer</h3>
 
-- 🔭 I’m currently working on [INDStock](https://bit.ly/indstock)
 
 - 🌱 I’m currently learning **ReactJS**
 
