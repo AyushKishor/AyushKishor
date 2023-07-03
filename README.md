@@ -1,5 +1,3 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Ayush Kishor </h1>
-
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 Hey there! I'm a passionate student and full-stack developer specializing in React, Node.js, MongoDB, Express, and Python. I channel my enthusiasm for teamwork into contributing to meaningful projects. With a keen interest in finance, I'm always seeking opportunities to apply my skills in creating innovative solutions. Let's collaborate and make a positive impact together!
 <br>
@@ -56,16 +54,3 @@ Hey there! I'm a passionate student and full-stack developer specializing in Rea
 </div>
 <br>
 <br>
-
-<!-- Statistics -->
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-<div class="stats" align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AyushKishor&count_private=true&theme=algolia&border_radius=20)
-
-</div>
-
