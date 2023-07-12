@@ -2,10 +2,6 @@
 Hey there! I'm a passionate student and full-stack developer specializing in React, Node.js, MongoDB, Express, and Python. I channel my enthusiasm for teamwork into contributing to meaningful projects. With a keen interest in finance, I'm always seeking opportunities to apply my skills in creating innovative solutions. Let's collaborate and make a positive impact together!
 <br>
 <br>
-<div align="center">
-
-[Email Me](mailto:ayushkishor17@gmail.com)
-</div>
 </p>    
 <br>
 <!-- Languages and Tools -->
